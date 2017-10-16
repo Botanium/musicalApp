@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Musical</string>
+    <string name="subscribe_message">You have successfully subscribed to this album</string>
+    <string name="song_name">Song Name</string>
+    <string name="songs_description">This activity shows the entire list of the songs.</string>
+    <string name="song_name1">Song Name</string>
+    <string name="song_name2">Song Name</string>
+    <string name="song_name3">Song Name</string>
+    <string name="song_name4">Song Name</string>
+    <string name="song_name5">Song Name</string>
+    <string name="genre">Genre</string>
+    <string name="artist">Artist</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="category_description">This activity shows all the different genre and categories in this activity</string>
+    <string name="artist_description">This activity shows all the artists in this activity</string>
+    <string name="albums_description">This activity shows all the albums in this activity</string>
+    <string name="subscribe_button">Subscribe</string>
+</resources>
